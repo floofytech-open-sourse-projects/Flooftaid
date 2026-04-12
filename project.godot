@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3]
+
+[general]
+config_version=4
+
+[rendering]
+vulkan_enabled=true
+
+[physics]
+engine="GodotPhysics"  
+
+[main]
+main_scene="res://main.tscn"
